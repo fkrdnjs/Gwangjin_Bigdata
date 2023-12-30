@@ -33,11 +33,11 @@
 - 서울시 자치구별 버스 사용량
 
 ### 실제 시각화 예시
-- 평균 이동거리 큰 대여소 top 20
+- 평균 이동거리 큰 대여소 top 20 <br>
 ![image](https://github.com/fkrdnjs/Gwangjin_Bigdata/assets/68600918/77ea21f4-e8ae-49a2-affe-7fd86095e19f)
 
-- 평균 사용 시간 많은 대여소 top 20
+- 평균 사용 시간 많은 대여소 top 20 <br>
   ![image](https://github.com/fkrdnjs/Gwangjin_Bigdata/assets/68600918/b1a01c75-0b6c-4728-b6b0-68f4373f3832)
 
-- 광진구 자전거 대여소, 지하철역, 버스 정류장 분포도
+- 광진구 자전거 대여소, 지하철역, 버스 정류장 분포도 <br>
   ![image](https://github.com/fkrdnjs/Gwangjin_Bigdata/assets/68600918/93c93ac2-a641-49f3-812e-5793ebfe4df1)
